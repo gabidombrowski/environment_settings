@@ -119,7 +119,11 @@ done
 #Install Spotify
 #Install VSCode and sync
 #Install Firefox and sync
+#Install spectacles
+#Save and import iterm2 profiles & settings
+#https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 #
 #Github SSH
 ##Setup SSH: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
 ##Add new SSH: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
