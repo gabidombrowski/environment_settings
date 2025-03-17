@@ -7,3 +7,14 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 autosuggestions plugin
 git aliases
 git config --global --type bool push.autoSetupRemote true
+
+Syntax Highlighting
+brew install zsh-syntax-highlighting
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh -> ~/.zshrc
+
+Auto-suggestion
+brew install zsh-autosuggestions
+source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh -> ~/.zshrc
+
+Enable git & aliases plugins
+plugins=(git aliases)
